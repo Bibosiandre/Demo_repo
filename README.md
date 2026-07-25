@@ -39,6 +39,8 @@ The software connects to the camera's RTSP stream, detects faces, recognizes emp
 </ul>
 </details>
 </details>
+
+![](https://github.com/Bibosiandre/Demo_repo/blob/main/chrome_WPgiRqOg04.gif)
 <h3>🛠️ Стек технологий и архитектура/Technology Stack and Architecture</h3>
 
 <details>
